@@ -1,0 +1,31 @@
+div#bio {
+    border: solid black;
+    border-radius: 10px;
+    border-width: 2px;
+    -moz-box-shadow: 5px 5px 5px 5px #777777;
+    -webkit-box-shadow: 5px 5px 5px 5px #777777;
+    padding: 4px;
+    
+}
+span.eName {
+    float: left;
+    font-weight: bold;
+    clear: left
+}
+
+img {
+    float: left;
+    margin-top: 30px;
+    height: 240px;
+    
+}
+
+span.title {
+    font-weight: bold;
+    float: left;
+}
+
+span.department {
+    float: left;
+    display: block
+}
